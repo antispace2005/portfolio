@@ -1,0 +1,166 @@
+{
+  "brand": "Abdelrahman Badran",
+  "hero": {
+    "eyebrow": "Data Science / AI",
+    "name": "Abdelrahman Badran",
+    "role": "Ain Shams University Engineering | Data Science & Machine Learning",
+    "summary": "Computer and Systems Engineering student focused on Data Science and Machine Learning, building practical AI-driven solutions with Python, C++, and analytical thinking.",
+    "actions": [
+      {
+        "label": "View Projects",
+        "href": "#projects",
+        "variant": "primary"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact",
+        "variant": "secondary"
+      }
+    ],
+    "meta": [
+      { "label": "Location", "value": "El Shorouk, Cairo, Egypt" },
+      { "label": "Focus", "value": "Data Science, Machine Learning, AI" },
+      { "label": "Education", "value": "Ain Shams University" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "about",
+      "type": "text",
+      "kicker": "Overview",
+      "title": "About me",
+      "paragraphs": [
+        "Computer and Systems Engineering student at Ain Shams University with a growing focus on Data Science and Machine Learning.",
+        "I am interested in building practical AI-driven solutions, working with data, and applying Python, C++, and analytical thinking to solve technical problems."
+      ]
+    },
+    {
+      "id": "education",
+      "type": "timeline",
+      "kicker": "Education",
+      "title": "Education",
+      "items": [
+        {
+          "company": "Ain Shams University",
+          "period": "September 2023 - June 2027",
+          "role": "Bachelor of Engineering - Computer and Systems Engineering",
+          "highlights": [
+            "Location: Cairo, Egypt",
+            "Focus: Data Science and Machine Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "type": "chips",
+      "kicker": "Capabilities",
+      "title": "Skills",
+      "groups": [
+        {
+          "name": "Programming",
+          "items": [
+            { "name": "Python" },
+            { "name": "C/C++" },
+            { "name": "JavaScript" },
+            { "name": "TypeScript" }
+          ]
+        },
+        {
+          "name": "AI / Data",
+          "items": [
+            { "name": "Machine Learning" },
+            { "name": "Deep Learning" },
+            { "name": "Computer Vision" },
+            { "name": "Data Analysis" }
+          ]
+        },
+        {
+          "name": "Software",
+          "items": [
+            { "name": "Linux" },
+            { "name": "Object-Oriented Programming" },
+            { "name": "Git / Version Control" },
+            { "name": "Web Development" },
+            { "name": "React" },
+            { "name": "SQL / Databases" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "type": "cards",
+      "kicker": "Selected work",
+      "title": "Projects",
+      "items": [
+        {
+          "title": "AI Quaridor",
+          "badge": "Featured",
+          "description": "A local Quoridor game with 1v1, 1vAI, and 1v1v1v1 modes, focused on strategy and interactive gameplay.",
+          "link": {
+            "label": "Open project",
+            "href": "https://antispace2005.github.io/Quaridor-Game-2.0/",
+            "external": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "certifications",
+      "type": "cards",
+      "kicker": "Learning",
+      "title": "Certifications",
+      "items": [
+        {
+          "title": "DEPI Google Data Analytics Program",
+          "description": "Professional data analytics program focused on practical analysis workflows and reporting."
+        },
+        {
+          "title": "Machine Learning Specialization",
+          "description": "Structured learning path covering practical machine learning concepts and applications."
+        },
+        {
+          "title": "Mathematics for Machine Learning and Data Science Specialization",
+          "description": "Mathematical foundations for machine learning and data science."
+        },
+        {
+          "title": "BUE Advanced (C1) English Language Course",
+          "description": "Advanced English language training."
+        }
+      ]
+    },
+    {
+      "id": "languages",
+      "type": "chips",
+      "kicker": "Languages",
+      "title": "Languages",
+      "groups": [
+        {
+          "name": "Spoken languages",
+          "items": [
+            { "name": "Arabic"},
+            { "name": "English"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "kicker": "Reach out",
+      "title": "Contact",
+      "links": [
+        {
+          "label": "abdelrahman.badran.05@gmail.com",
+          "href": "mailto:abdelrahman.badran.05@gmail.com"
+        },
+        {
+          "label": "LinkedIn",
+          "href": "https://www.linkedin.com/in/a-badran",
+          "external": true
+        }
+      ]
+    }
+  ]
+}
