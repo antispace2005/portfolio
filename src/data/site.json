@@ -3,7 +3,7 @@
   "hero": {
     "eyebrow": "Data Science / AI",
     "name": "Abdelrahman Badran",
-    "role": "Ain Shams University Engineering | Data Science & Machine Learning",
+    "role": "Bachelor of Engineering",
     "summary": "Computer and Systems Engineering student focused on Data Science and Machine Learning, building practical AI-driven solutions with Python, C++, and analytical thinking.",
     "actions": [
       {
@@ -19,7 +19,7 @@
     ],
     "meta": [
       { "label": "Location", "value": "El Shorouk, Cairo, Egypt" },
-      { "label": "Focus", "value": "Data Science, Machine Learning, AI" },
+      { "label": "Major", "value": "Computer and Systems Engineering" },
       { "label": "Education", "value": "Ain Shams University" }
     ]
   },
